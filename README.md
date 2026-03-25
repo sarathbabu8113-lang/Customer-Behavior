@@ -1,4 +1,5 @@
 # Consumer Behavior Analysis & Sales Insights
+
 ## Project Overview
 
 This project analyzes consumer shopping behavior to identify key factors influencing purchasing decisions, customer engagement, and repeat buying patterns.
@@ -17,6 +18,7 @@ Identify key drivers of sales and repeat purchases
 Segment customers based on buying patterns
 Compare online vs offline performance
 Provide data-driven business recommendations
+
 ## Tools & Technologies
 Python (Pandas, NumPy) – Data Cleaning & Preparation
 SQL (MySQL) – Data Analysis
